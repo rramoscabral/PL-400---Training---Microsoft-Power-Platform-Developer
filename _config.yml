@@ -1,0 +1,8 @@
+theme: jekyll-theme-slate
+title: PL-400 - Training - Microsoft-Power-Platform-Developer
+description: Companion material and resources for the course 'Microsoft Power Platform Developer' delivery by Ricardo Cabral 
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
