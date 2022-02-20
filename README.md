@@ -12,7 +12,7 @@ Training for Microsoft Official Course (MOC) PL-400 Microsoft Power Platform Dev
 The Microsoft Power Platform helps organizations optimize their operations by simplifying, automating and transforming business tasks and processes.
 
 - [About the course](#about-the-course)
-- [Microsoft Labs and Workshops](#microsoft-labs-and-workshops)
+- [Hands-on Labs](#hands-on-labs)
 - [Tools](#tools)
 - [Samples](#samples)
 - [Licensing & Pricing](#pricing)
@@ -44,15 +44,15 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 
 ---
 
-<a id="microsoft-labs-and-workshops" />
+<a id="hands-on-labs" />
 
 <br/>
  
  
-## Microsoft Labs and Workshops
+## Microsoft Course and Workshops Hands-on Labs
 
 
-**Labs and Workshops**
+**Hands-on Labs**
 
 <br/>
 
