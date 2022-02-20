@@ -61,7 +61,7 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 
 <br/>
 
-- Microsoft Hand-on-labs Workshop
+- Microsoft Workshops Hands-on Labs
 
     | Workshop  | URL | 
     | --- | --- |
@@ -83,7 +83,7 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 
 **Software List**
 
-Software list to run the course and workshop labs available [here](./Lab-Setup.md)
+Required software to run the course and workshop hands-on labs available [here](./Lab-Setup.md)
 
 <br/>
  
