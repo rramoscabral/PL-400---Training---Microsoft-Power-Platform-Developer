@@ -97,12 +97,15 @@ Required software to run the course and workshop hands-on labs available [here](
 
 ## Tools
 
-- **Power Platform**
-    - [Microsoft Power Platform Center of Excellence (CoE) Starter Kit](https://docs.microsoft.com/en-us/power-platform/guidance/coe/starter-kit)
-    - [Microsoft Power Platform Build Tools for Azure DevOps](https://docs.microsoft.com/en-us/power-platform/alm/devops-build-tools)
 
-- **Power Apps** 
-    - [Microsoft Power Apps tools](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery)
+**Power Platform**
+- [Microsoft Power Platform Center of Excellence (CoE) Starter Kit](https://docs.microsoft.com/en-us/power-platform/guidance/coe/starter-kit)
+- [Microsoft Power Platform Build Tools for Azure DevOps](https://docs.microsoft.com/en-us/power-platform/alm/devops-build-tools)
+
+**Power Apps** 
+- [Microsoft Power Apps tools](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery)
+
+<br/>
 
 [Return to top](#top)
 
