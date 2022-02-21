@@ -69,14 +69,12 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
     | Build your own Power Apps Solution  | [Here](https://aka.ms/BYOPAS_Student) |  
     | Connector in a Day  ***Warning: OUTDATED*** | [Here](https://github.com/Microsoft/DataConnectors/tree/master/samples/TripPin) |
     | Custom Connectors with Azure Functions | [Here](https://aka.ms/customconnectorhol) |
-    | Dataverse for Teams in a Day | [Here:](https://aka.ms/DataverseTeamsIAD) | 
+    | Dataverse for Teams in a Day | [Here](https://aka.ms/DataverseTeamsIAD) | 
     | Flow in a Day ***Warning: OUTDATED*** | [Here](https://aka.ms/flowinaday) | 
-    | Integrating Application Insights with Power Apps | [Here](https://aka.ms/PAANDAI) | 
-    | Integrating PowerApps with Power BI | [Here](https://aka.ms/mbasworkshop) |  
-    | PowerApps Admin in a Day lab | [Here](https://aka.ms/PowerApps/AdminInADay) | 
+    | Power Apps Admin in a Day | [Here](https://aka.ms/PowerApps/AdminInADay) | 
     | Power Apps App in a Day | [Here](https://aka.ms/appinaday) |
-    | Power Automate in a Day | [Here](https://aka.ms/flowinaday) | 
-    | Power Virtual Agents chatbot in a Day   | [Here](https://aka.ms/PVAinaDay) | 
+    | Power Automate in a Day | [Here](https://github.com/Power-Automate-in-a-day/Training-by-the-community) | 
+    | Power Virtual Agents chatbot in a Day   | [Here](https://aka.ms/PVAinaDayPackage) | 
     | Robotic process automation (RPA) in a day  | [Here](https://aka.ms/rpainadaypackage) |
 
 <br/>
@@ -268,10 +266,19 @@ User Groups about Microsoft Power Platform and Dynamics 365
 
 <br/>
 
-- [Microsoft Community for Power Platform and Dynamics 365](https://powerusers.microsoft.com/)
+- [Microsoft Dynamics 365 Community](https://community.dynamics.com/)
+- [Microsoft Dynamics 365 User Groups](https://aka.ms/DY_Comm_UserGroups)
 - [Microsoft Power Apps Community](https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1)
+- [Microsoft Power Apps User Groups](https://powerusers.microsoft.com/t5/Power-Apps-User-Groups/ct-p/pa_usergroups)
+- [Microsoft Power Automate Community](https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity)
+- [Microsoft Power Automate User Groups](https://powerusers.microsoft.com/t5/Power-Automate-User-Groups/ct-p/mpa_usergroups)
+- [Microsoft Power BI Community](https://community.powerbi.com/)
+- [Microsoft Power BI User Groups](https://community.powerbi.com/t5/Power-BI-User-Groups/ct-p/pbi_usergroups)
+- [Microsoft Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity)
+- [Microsoft Power Virtual User Groups](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-User-Groups/ct-p/pva_usergroups)
 - [Power Platform User Groups](https://powerusers.microsoft.com/t5/Power-Platform-User-Groups/ct-p/pp_usergroups)
 - [Power Platform UG Community](https://www.powerplatformug.com/home)
+
 
 <br/>
 
