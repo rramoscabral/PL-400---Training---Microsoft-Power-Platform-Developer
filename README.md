@@ -172,6 +172,8 @@ Required software to run the course and workshop hands-on labs available [here](
 <br/>
 
 - [Latest version of Power Platform Licensing Guide](https://go.microsoft.com/fwlink/?LinkId=2085130&clcid=0x409)
+- [Request limits based on user licenses](https://docs.microsoft.com/en-us/power-platform/admin/api-request-limits-allocations#request-limits-based-on-user-licenses)
+
 
 <br/>
 
@@ -196,7 +198,9 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 <br/>
 
-[Microsoft Power Platform Adoption](https://adoption.microsoft.com/powerplatform/)
+*Power Platform*
+- [Microsoft Power Platform Adoption](https://adoption.microsoft.com/powerplatform/)
+- [Microsoft Power Platform Blog](https://cloudblogs.microsoft.com/powerplatform/)
 
 <br/>
 
@@ -209,6 +213,12 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 - [Power Apps component framework documentation](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/overview)
 - [Microsoft Power Platform CLI](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/powerapps-cli)
 - [Pre-populate connection references and environment variables for automated deployments](https://docs.microsoft.com/en-us/power-platform/alm/conn-ref-env-variables-build-tools)
+- Troubleshoot flows:
+  - [Find and fix errors with Flow Checker](https://docs.microsoft.com/en-us/power-automate/error-checker)
+  - [Request limits based on user licenses](https://docs.microsoft.com/en-us/power-platform/admin/api-request-limits-allocations#request-limits-based-on-user-licenses)
+  - [Troubleshooting a cloud flow](https://docs.microsoft.com/en-us/power-automate/fix-flow-failures)
+  - [Troubleshoot common issues with triggers](https://docs.microsoft.com/en-us/power-automate/triggers-troubleshoot)
+
 
 <br/>
 
@@ -241,6 +251,7 @@ https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-f
 | Azure Strategy and Implementation Guide - Fourth Edition | Jack Lee, Greg Leonardo, Jason Milgram, David Rendón | 2021-04-05 | [Link here](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide-fourth-edition/) | 
 | Fusion development approach to building apps using Power Apps | Shayne Boyer, John Sharp, Alistair Matthews, Phil Stollery | | [Link here](https://docs.microsoft.com/en-us/powerapps/guidance/fusion-dev-ebook/) |
 | IT Strategy - Driving Efficiency Through Low-Code App Development | Microsoft | | [Link here](https://info.microsoft.com/ww-landing-IT-Strategy-Driving-Efficiency-Through-Low-Code-App-Development-Ebook.html) |
+| PowerApps canvas app coding standards and guidelines (white paper) | Todd Baginski, Pat Dunn | December 2018 | [Link here](https://pahandsonlab.blob.core.windows.net/documents/PowerApps%20canvas%20app%20coding%20standards%20and%20guidelines.pdf) or [Link here](https://aka.ms/powerappscanvasguideline) |
 
 
 <br/>
