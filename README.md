@@ -63,19 +63,19 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 
 - Microsoft Workshops Hands-on Labs
 
-    | Workshop  | URL | 
-    | --- | --- |
-    | App in an hours ***Warning: OUTDATED*** | [Here](https://aka.ms/AppInHours) |
-    | Build your own Power Apps Solution  | [Here](https://aka.ms/BYOPAS_Student) |  
-    | Connector in a Day  ***Warning: OUTDATED*** | [Here](https://github.com/Microsoft/DataConnectors/tree/master/samples/TripPin) |
-    | Custom Connectors with Azure Functions | [Here](https://aka.ms/customconnectorhol) |
-    | Dataverse for Teams in a Day | [Here](https://aka.ms/DataverseTeamsIAD) | 
-    | Flow in a Day ***Warning: OUTDATED*** | [Here](https://aka.ms/flowinaday) | 
-    | Power Apps Admin in a Day | [Here](https://aka.ms/PowerApps/AdminInADay) | 
-    | Power Apps App in a Day | [Here](https://aka.ms/appinaday) |
-    | Power Automate in a Day | [Here](https://github.com/Power-Automate-in-a-day/Training-by-the-community) | 
-    | Power Virtual Agents chatbot in a Day   | [Here](https://aka.ms/PVAinaDayPackage) | 
-    | Robotic process automation (RPA) in a day  | [Here](https://aka.ms/rpainadaypackage) |
+    | Workshop  | Description | URL | 
+    | --- | --- | --- | 
+    | Admin in a day | Best practices for management and governance of Power Apps and Power Automate. | [Link Here](https://github.com/microsoft/powerapps-tools/tree/master/Administration/AdminInADay) |
+    | App in a Day | Experience the possibilities of building great business apps without writing code. | [English Link here](https://aka.ms/appinaday) , [Other languages here](https://aka.ms/AppinadayLocal) |
+    | App in an hours ***Warning: OUTDATED*** | Beginner level lab for you to get hands on experience with PowerApps, and the Dataverse. | [Here](https://aka.ms/AppInHours) |
+    | Build your own Power Apps Solution | Working with Power Apps and other Microsoft products and has the following prerequisite 'App in a Day' completion or equivalent work experience with Power Apps. | [Link Here](https://aka.ms/BYOPAS_Student) | 
+    | Connector in a Day  ***Warning: OUTDATED*** | This multi-part tutorial covers the creation of a new data source extension for Power Query. | [Link Here](https://github.com/Microsoft/DataConnectors/tree/master/samples/TripPin) |
+    | Dataverse for Teams in a Day | Different ways to collaborate with Power BI, Power Apps, Power Virtual Agents, Power Automate, and Microsoft Teams. | [Link Here](https://aka.ms/DataverseTeamsIAD)  or  [Link Here](https://aka.ms/TeamsPPAttendee) | 
+    | Flow in a Day ***Warning: OUTDATED*** | Introduce Microsoft Flow. | [Link Here](https://aka.ms/flowinaday) | 
+    | Power Automate in a Day | Experience the possibilities of building flows with Power Automate | [Link Here](https://github.com/Power-Automate-in-a-day/Training-by-the-community) |
+    | Power Virtual Agents chatbot in a Day   | Hands-on experience designing and developing a chatbot. | [Link Here](https://aka.ms/PVAinaDayPackage) | 
+    | Robotic process automation (RPA) in a day  | Power Automate and robotic process automation content. | [Link Here](https://aka.ms/RPAinaDayPackage) |
+    
 
 <br/>
 
