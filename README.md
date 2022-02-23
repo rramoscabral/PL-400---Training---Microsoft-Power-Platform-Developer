@@ -213,12 +213,6 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 - [Power Apps component framework documentation](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/overview)
 - [Microsoft Power Platform CLI](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/powerapps-cli)
 - [Pre-populate connection references and environment variables for automated deployments](https://docs.microsoft.com/en-us/power-platform/alm/conn-ref-env-variables-build-tools)
-- Troubleshoot flows:
-  - [Find and fix errors with Flow Checker](https://docs.microsoft.com/en-us/power-automate/error-checker)
-  - [Request limits based on user licenses](https://docs.microsoft.com/en-us/power-platform/admin/api-request-limits-allocations#request-limits-based-on-user-licenses)
-  - [Troubleshooting a cloud flow](https://docs.microsoft.com/en-us/power-automate/fix-flow-failures)
-  - [Troubleshoot common issues with triggers](https://docs.microsoft.com/en-us/power-automate/triggers-troubleshoot)
-
 
 <br/>
 
@@ -227,7 +221,13 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference)
 - [Enterprise Deployment for Robotic Process Automation and more in Power Automate (white paper)](https://aka.ms/autocoeadminwhitepaper)
 - [Extend the capabilities of Microsoft Power Automate with Robotic Process Automation (white paper)](https://info.microsoft.com/ww-landing-Power-Automate-White-Paper.html)
+- Troubleshoot flows:
+  - [Find and fix errors with Flow Checker](https://docs.microsoft.com/en-us/power-automate/error-checker)
+  - [Request limits based on user licenses](https://docs.microsoft.com/en-us/power-platform/admin/api-request-limits-allocations#request-limits-based-on-user-licenses)
+  - [Troubleshooting a cloud flow](https://docs.microsoft.com/en-us/power-automate/fix-flow-failures)
+  - [Troubleshoot common issues with triggers](https://docs.microsoft.com/en-us/power-automate/triggers-troubleshoot)
 
+<br/>
 
 *Power Virtual Agents*
  - [Power Virtual Agents Customer Engagement Playbook](https://aka.ms/pvaplaybook)
