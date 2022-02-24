@@ -56,7 +56,7 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 
 <br/>
 
-- PL-400 official course lab instructions view [here](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/), download latest release [here](https://github.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/releases/latest)
+- ***PL-400*** official course lab instructions view [here](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/), download latest release [here](https://github.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/releases/latest)
 
 
 <br/>
