@@ -20,6 +20,7 @@
 - [.NET Framework 4.6.2 Developer Pack](https://dotnet.microsoft.com/download/dotnet-framework/net462)
 - [.NET Framework 4.8 Developer Pack](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
 - [.NET 6 Developer Pack](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- [Dynamics 365 SDK Tools](https://xrm.tools/SDK)
 - [Microsoft Power Platform CLI](https://docs.microsoft.com/en-us/powerapps/maker/portals/power-apps-cli)
 - [Node JS](https://nodejs.org/en/)
 - [Postman](https://www.getpostman.com/)
