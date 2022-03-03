@@ -76,7 +76,7 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
     | Power Automate |  Robotic process automation (RPA) in a day  | Power Automate and robotic process automation content. | [Link Here](https://aka.ms/RPAinaDayPackage) |
     | Power Virtual Agents  | Power Virtual Agents chatbot in a Day   | Hands-on experience designing and developing a chatbot. | [Link Here](https://aka.ms/PVAinaDayPackage) | 
     | Power BI | Dashboard in a Day | Covering the breadth of Power BI capabilities. | [English link here](https://aka.ms/diad_student), [Other languages here](https://aka.ms/DIAD_Attendee_Local) |
-    | Power BI | Advanced Visualization with Power BI | Power BI report layouts and structure the agile process to creating Power BI data visualizations. | [Link Here](https://aka.ms/PBI-adv-Vis) ||
+    | Power BI | Advanced Visualization with Power BI | Power BI report layouts and structure the agile process to creating Power BI data visualizations. | [Link Here](https://aka.ms/PBI-adv-Vis) |
     | Power BI | Advanced Data Modeling and Shaping with Power BI | Using Power BI Desktop to import and shape data from a variety of sources. | [Link Here](https://aka.ms/PBIModelShape) |
     | Power BI | DAX in a Day | Experienced model developers. | [Link Here](https://aka.ms/DAXIAD) |
     | Power BI | Administrator in a Day | Microsoft Power BI administration.  | [Link Here](https://aka.ms/PBI-AdminIAD) |
@@ -84,7 +84,7 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
     | Power BI | Developer in a Day | Embed Power BI content | [Link Here](https://aka.ms/DevIAD_Student)|
     | Power BI | Modern Excel Analyst in a Day | Excel and Power BI | [Link Here](https://aka.ms/MAIAD-Attendee) |
     | Power BI | Leap into Power BI | Tableau, showing them how to achieve the same functionality in Power BI. | [Link Here](https://aka.ms/LeapAttendee) |
-    | Power BI | Analytics in a Day | Design an enterprise BI solution that uses Azure Synapse Analytics and Power BI | [Link Here]() |
+
 
    
 
