@@ -166,6 +166,12 @@ Required software to run the course and workshop hands-on labs available [here](
 - [Power Platform Data Loss Prevention (DLP) SDK](https://github.com/microsoft/PowerApps-Samples/tree/master/powershell/admin-center)
 
 
+***Web API**
+- [Web API Data operations Samples (HTTP)](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/webapi/web-api-samples)
+- [Web API Data operations Samples (C#)](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/webapi/web-api-samples-csharp)
+- [Web API Data operations Samples (Client-side JavaScript)](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/powerapps-cli)
+
+
 <br/>
 
 [Return to top](#top)
