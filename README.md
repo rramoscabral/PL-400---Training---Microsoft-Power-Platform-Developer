@@ -32,6 +32,8 @@ The Official course outline is available [here](https://docs.microsoft.com/en-us
 
 The exam skills measured is available [here](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400).
 
+Learning and Training Guide for Microsoft Power Platform and Dynamics 365 [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWO4Ni)
+
 The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoster).
 
 
