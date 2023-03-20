@@ -4,6 +4,8 @@ description: Companion material and resources for the course 'Microsoft Power Pl
 relative_links:
   enabled: true
   collections: true
+exclude:
+  - .github/
 include:
   - README.md
 author: Ricardo Cabral
