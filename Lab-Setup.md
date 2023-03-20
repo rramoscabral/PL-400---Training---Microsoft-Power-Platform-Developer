@@ -23,6 +23,7 @@
 | SDK  | .NET Framework 4.6.2 Developer Pack | [URL here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net462)|
 | SDK  | .NET Framework 4.8 Developer Pack   | [URL here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)|
 | SDK  | .NET 6 Developer Pack               | [URL here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)|
+| SDK  | .NET 7 Developer Pack               | [URL here](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)|
 | SDK  | Dynamics 365 SDK Tools              | [It is recommended to use the PowerShell script available here ](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/download-tools-nuget?view=op-9-1#download-tools-using-powershell) **OR** [By CDS.Tools here](https://xrm.tools/SDK) |
 | Developer CLI | Microsoft Power Platform CLI | [Download here](https://aka.ms/PowerAppsCLI) **OR** [Overview here](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/powerapps-cli) <br> **- Note:** To update to the latest capabilities use: ```pac install latest```|
 | Runtime       | .Net Framework 4.6.2 | [URL here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net462)|
@@ -60,6 +61,10 @@
 |[User Settings Utility](https://www.xrmtoolbox.com/plugins/MsCrmTools.UserSettingsUtility/) | Manage users personal settings in bulk|
 |[XrmToolBox](https://www.xrmtoolbox.com/) ***Recommended*** | XrmToolBox is a Windows application that connects to Microsoft Dataverse. |
 
+<br/>
+
 ---
+
+<br/>
 
 [**Back to main**](./README.md)

@@ -6,3 +6,6 @@ relative_links:
   collections: true
 include:
   - README.md
+author: Ricardo Cabral
+twitter_username: rramoscabral
+github_username:  rramoscabral
