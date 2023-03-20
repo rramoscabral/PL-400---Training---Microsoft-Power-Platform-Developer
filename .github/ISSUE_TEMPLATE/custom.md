@@ -1,7 +1,7 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: 'Custom issue'
+name: Submit an issue
+about: Submit an issue.
+title: 'Issue'
 labels: ''
 assignees: rramoscabral
 
