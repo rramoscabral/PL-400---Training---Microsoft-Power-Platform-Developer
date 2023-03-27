@@ -24,6 +24,7 @@ In this exercise, you will import existing solution and add data to the Datavers
 1. Add the following departments in **Departments** table at **Company 311** solution.
     * Human Resources
     * Marketing
+    * Maintenance
 
 1. Add the following buildings in **Buildings** table at **Company 311** solution.
     * San Francisco Main Campus
