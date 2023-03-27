@@ -24,7 +24,7 @@ In this exercise, you will import existing solution and add data to the Datavers
 1. Add the following departments in **Departments** table at **Company 311** solution.
     * Human Resources
     * Marketing
-    * Maintenance
+    * Facility Maintenance
 
 1. Add the following buildings in **Buildings** table at **Company 311** solution.
     * San Francisco Main Campus
@@ -34,7 +34,7 @@ In this exercise, you will import existing solution and add data to the Datavers
   
     |Title | Building | Department | Details  |
     | --- | --- | --- | --- |
-    | Enter Broken door for Title | San Francisco Main Campus | Maintenance |The main entrance door will not open all the way |
+    | Enter Broken door for Title | San Francisco Main Campus | Facility Maintenance |The main entrance door will not open all the way |
 
 1. Import DataImport.zip solution.
 
