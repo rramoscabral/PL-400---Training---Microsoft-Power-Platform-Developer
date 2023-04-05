@@ -51,9 +51,11 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 **Microsoft Power Platform**
 
+- [Microsoft Power Platform and Dynamics 365 release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
 - [Microsoft Power Platform Adoption](https://adoption.microsoft.com/powerplatform/)
 - [Microsoft Power Platform Blog](https://cloudblogs.microsoft.com/powerplatform/)
 - [Power Platform Governance (white paper)](https://aka.ms/powerappsadminwhitepaper)
+
 
 <br/>
 

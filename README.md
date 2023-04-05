@@ -11,6 +11,7 @@ Training for Microsoft Official Course (MOC) PL-400: Microsoft Power Platform De
 The Microsoft Power Platform helps organizations optimize their operations by simplifying, automating and transforming business tasks and processes.
 
 - [About the course](./about-the-course.md)
+- [Exam certification](./exam.md)
 - [Hands-on Labs](./hands-on-labs.md)
 - [Software List for Hands-on Labs](./lab-Setup.md)
 - [Tools](./tools.md)
@@ -18,6 +19,7 @@ The Microsoft Power Platform helps organizations optimize their operations by si
 - [Licensing & Pricing](./licensing-pricing.md)
 - [Resources](./resources.md)
 - [User groups](./usergroups.md)
+- [Microsoft customer stories](./microsoft-customer-stories.md)
 
 
 <br>
