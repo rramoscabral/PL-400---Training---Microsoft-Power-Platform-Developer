@@ -13,7 +13,7 @@ The Microsoft Power Platform helps organizations optimize their operations by si
 - [About the course](./about-the-course.md)
 - [Exam certification](./exam.md)
 - [Hands-on Labs](./hands-on-labs.md)
-- [Software List for Hands-on Labs](./lab-Setup.md)
+- [Software List for Hands-on Labs](./Lab-Setup.md)
 - [Tools](./tools.md)
 - [Samples](./samples.md)
 - [Licensing & Pricing](./licensing-pricing.md)
