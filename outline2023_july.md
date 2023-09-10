@@ -1,0 +1,62 @@
+<a id="top" />
+
+<br/>
+
+[**Back to about the course**](./about-the-course.md) | [**Back to main**](./README.md)
+
+<br/>
+
+---
+
+<br/>
+
+<a id="course-outline" />
+
+## 2023 Course outline
+
+<br/>
+
+| Learning Path | Module |   
+| --- | --- | 
+| 1. Work with Microsoft Dataverse | [1. Introduction to Microsoft Dataverse](https://learn.microsoft.com/training/modules/introduction-common-data-service)<br>[2. Manage environments](https://learn.microsoft.com/training/modules/create-manage-environments/)<br> [3. Manage customizations with solutions]()<br> [4.1. Create tables in Microsoft Dataverse](https://learn.microsoft.com/training/modules/get-started-with-powerapps-common-data-service)<br>[4.2 Manage tables in Dataverse](https://learn.microsoft.com/training/modules/create-manage-entities)<br>[5.1. Create and manage columns within a table in Dataverse](https://learn.microsoft.com/training/modules/create-manage-fields-within-entity)<br>[5.2. Working with choices in Dataverse](https://learn.microsoft.com/training/modules/working-with-option-sets)<br>[6. Create relationships between tables in Dataverse](https://learn.microsoft.com/training/modules/create-relationship-between-cds-entities)<br>[7. Create and define calculated and rollup columns in Dataverse](https://learn.microsoft.com/training/modules/create-define-calculation-rollup-fields)<br>[8. Define and create business rules in Microsoft Dataverse](https://learn.microsoft.com/training/modules/define-create-business-rules)<br>[9. Manage security in Microsoft Datavers](https://learn.microsoft.com/training/modules/get-started-security-roles)<br>[Practice Lab 1: Data modeling](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/Instructions/Labs/LAB%5BPL-400%5D_Lab01_Data_Modeling.html)|
+| 2. Create model driven apps | [1. Get started with model-driven apps](https://learn.microsoft.com/training/modules/get-started-with-model-driven-apps-in-powerapps)<br>[2. Configure forms](https://learn.microsoft.com/training/modules/configure-model-driven-apps-customer-engagement-apps)<br>[3. Configure views](https://learn.microsoft.com/training/modules/configure-model-driven-apps-customer-engagement-apps)<br>[4. Command bar](https://learn.microsoft.com/training/modules/command-bar-customize)<br>[Practice Lab 2: Model-driven app](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/Instructions/Labs/LAB%5BPL-400%5D_Lab02_Model_Driven_App.html)|
+| 3. Create canvas apps | [1. Get started with Power Apps](https://learn.microsoft.com/training/modules/get-started-with-model-driven-apps-in-powerapps)<br>[2. Understanding Low Code as a Traditional Developer](https://learn.microsoft.com/training/modules/understanding-low-code-as-a-traditional-developer)<br>[3. Customize a canvas app in Power Apps](https://learn.microsoft.com/training/modules/customize-apps-in-powerapps)<br>[4. Navigation in a canvas apps](https://learn.microsoft.com/training/modules/navigation-canvas-app) <br>[5.1 Create formulas to change properties in a Power Apps canvas app](https://learn.microsoft.com/training/modules/author-basic-formula-change-properties-powerapps)<br>[5.2 Create formulas to change behaviors in a Power Apps canvas app](https://learn.microsoft.com/training/modules/author-basic-formula-change-behaviors-powerapps)<br>[5.3 Author a basic formula that uses tables and records in a Power Apps canvas app](https://learn.microsoft.com/training/modules/author-basic-formula-tables-records-powerapps)<br>6. Canvas components (None MS Learn link)<br>[7. Testing canvas apps](https://learn.microsoft.com/training/modules/document-test-powerapps-app)<br>[Practice Lab 3: Canvas app](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/Instructions/Labs/LAB%5BPL-400%5D_Lab03_Canvas_App.html)|
+| 4. Advanced techniques in canvas apps | [1. Use imperative development techniques for canvas apps](https://learn.microsoft.com/training/modules/use-imperative-dev-techniques-powerapps-canvas-app)<br> [2. Perform custom updates in a canvas app](https://learn.microsoft.com/training/modules/perform-custom-updates-powerapps-canvas-app)<br>[3. Use Dataverse choice columns with formulas](https://learn.microsoft.com/training/modules/choice-columns-formulas)<br>[4.1. Work with relational data in a Power Apps canvas app](https://learn.microsoft.com/training/modules/work-with-relational-data-powerapps-canvas-app)<br>[4.2. Reduce complexity in your data model with Dataverse table relationships](https://learn.microsoft.com/training/modules/reduce-complexity-dataverse-table)<br>[5. Work with data source limits (delegation limits) in a canvas app](https://learn.microsoft.com/training/modules/work-with-data-source-limits-powerapps-canvas-app)<br>[6.1. Complete testing and performance checks in a Power Apps canvas app](https://learn.microsoft.com/training/modules/testing-performance-checks-powerapps)<br>[6.2. Optimize app load time](https://learn.microsoft.com/training/modules/optimize-app-load-time )<br>[6.3. Use Monitor to troubleshoot Power Apps](https://learn.microsoft.com/training/modules/monitor-to-troubleshoot)<br>[6.4. Use Power Apps Instrumentation with Application Insights](https://learn.microsoft.com/training/modules/instrumentation-app-insights)<br>[Practice Lab 4: Advanced canvas app techniques](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/Instructions/Labs/LAB%5BPL-400%5D_Lab04_Advanced_Canvas_app/html) |
+| 5. Automate a business process using Power Automate | [1. Get started with Power Automate](https://learn.microsoft.com/training/modules/get-started-flows)<br>[2. Introduction to expressions in Power Automate ](https://learn.microsoft.com/training/modules/introduction-expressions)<br>[3. Use Dataverse triggers and actions in Power Automate](https://learn.microsoft.com/training/modules/dataverse-triggers-actions)<br>4. Advanced features of cloud flows (No MS Learn Link)<br>[Practice Lab 5: Power Automate](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/Instructions/Labs/LAB%5BPL-400%5D_Lab05_Flow.html)|
+|6. Introduction to developing with Power Platform | [1. Introduction to Microsoft Power Platform developer resources](https://learn.microsoft.com/training/modules/introduction-developing-power-platform)<br>[2. Use developer tools to extend Microsoft Power Platform](https://learn.microsoft.com/training/modules/use-developer-tools-extend) <br>[3. Introduction to extending Microsoft Power Platform](https://learn.microsoft.com/training/modules/introduction-power-platform-extensibility-model)<br>[4. Work with Dataverse APIs](https://learn.microsoft.com/training/modules/common-data-service-web-api)<br>[Practice Lab 6: Power Platform tools](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/Instructions/Labs/LAB%5BPL-400%5D_Lab06_Tools.html)<br>[Practice Lab 7: Power Platform APIs](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/Instructions/Labs/LAB%5BPL-400%5D_Lab07_APIs.html) |
+| 7. Extending the model-driven apps user experience | [1. Performing common actions with client script](https://learn.microsoft.com/training/modules/common-actions-client-script-power-platform)<br>[2. Best practices with client script](https://learn.microsoft.com/training/modules/automate-business-process-flow-client-script-power-platform)<br>[Practice Lab 8: Client scripting](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/Instructions/Labs/LAB%5BPL-400%5D_Lab08_Client_Scripting.html) |
+| 8. Create code components with the Power Apps Component Framework |[1. Get started with Power Apps component framework](https://learn.microsoft.com/training/modules/get-started-component-framework)<br>[Practice Lab 9: Power Apps Component Framework](https://microsoftlearning.github.io/PL-400_Microsoft-Power-Platform-Developer/Instructions/Labs/LAB%5BPL-400%5D_Lab09_PCF.html)|
+
+
+
+
+
+
+
+
+| 9. Extending Microsoft Dataverse |
+[1. Introduction to Dataverse for developers]() <br>
+[2. Create plug-ins]() 
+
+
+| 10. Integrate with Dataverse and Azure |
+[1. Integrate with Azure]() <br>
+[2. Integrate with Dataverse]()
+
+| 11. Custom Connectors |
+[1. Get started with custom connectors in Power Automate]()
+
+
+| 12. Application lifecycle management |
+[1. Solutions and Application Lifecycle Management]()
+
+| 13. Create a Technical Design (Optional) |
+[1. Technical architecture]()
+
+<br/>
+
+---
+
+<br/>
+
+[**Return to top**](#top) | [**back to about the course**](./about-the-course.md) | [**Back to main**](./README.md)

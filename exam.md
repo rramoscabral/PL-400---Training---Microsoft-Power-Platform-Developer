@@ -13,6 +13,7 @@
 
 - [About the exam](#about-the-exam)
 - [Skills measure](#skills-measured)
+- [Free Practice Assessments](#freepracticeassessments)
 - [Official practice test](#official-practice-test)
 - [Score needed to pass exam](#score-needed-to-pass-exam)
 - [Exam experience](#exam-experience)
@@ -34,15 +35,15 @@
 
 ### **About the exam**
 
-**Microsoft Certified: Power Platform Functional Consultant Associate**
+**Microsoft Certified: Power Platform Developer Associate**
 
 The certification consists on **ONE** exam.
 
-* The exam PL-200 (Microsoft Power Platform Functional Consultant) measures your ability to configure Microsoft Dataverse, create apps by using Microsoft Power Apps, create and manage process automation, describe Microsoft Power Virtual Agent, import and visualize data by using dataflows and Power BI, define an environment strategy.
+* The exam PL-400 (Microsoft Power Platform Functional Consultant) measures your ability to design, develop, secure, and troubleshoot Power Platform solutions.
 
 <br/>
 
-You can explore steps to get certified as an **Power Platform Functional Consultant Associate** and review the resources available to help you prepare [**here**](https://learn.microsoft.com/en-us/certifications/power-platform-functional-consultant-associate/)
+You can explore steps to get certified as an **Power Platform Developer Associate** and review the resources available to help you prepare [**here**](https://learn.microsoft.com/en-us/certifications/power-platform-developer-associate/)
 
 The Microsoft Training and Certifications Guide is available [**here**](https://aka.ms/TrainingCertDeck).
 
@@ -63,7 +64,7 @@ The Microsoft poster Certified is available [**here**](https://aka.ms/TrainCertP
 ### **Skills measured**
 
 
-The exam measured skills are constantly being updated due to dynamic cloud services. So it is highly recommended to always consult the official exam page [**here**](https://learn.microsoft.com/en-us/certifications/exams/pl-200).
+The exam measured skills are constantly being updated due to dynamic cloud services. So it is highly recommended to always consult the official exam page [**here**](https://learn.microsoft.com/en-us/certifications/exams/pl-400/).
 
 <br/>
 
@@ -72,6 +73,29 @@ The exam measured skills are constantly being updated due to dynamic cloud servi
 <br/>
 
 ---
+
+
+<a id="freepracticeassessments" />
+
+<br/>
+
+### **Free Practice Assessments**
+
+Microsoft Learn provide you with an overview of the style, wording, and difficulty of the questions you’re likely to experience on the exam.
+Through these assessments, you’re able to assess your readiness, determine where additional preparation is needed, and fill knowledge gaps bringing you one step closer to the likelihood of passing your exam.
+
+
+- [Practice Assessments for PL-400: Microsoft Power Platform Developer](https://learn.microsoft.com/en-us/certifications/exams/pl-400/practice/assessment?assessment-type=practice&assessmentId=66)
+
+
+<br/>
+
+[Return to top](#top) | [Back to main](./README.md)
+
+<br/>
+
+---
+
 
 <a id="official-practice-test" />
 
@@ -94,8 +118,8 @@ You can access demo tests for free. Each demo is a short version of the complete
 <br/>
 
 You can buy the practice test at:
-- [Measureup](https://www.measureup.com/microsoft-official-practice-test-pl-200-microsoft-power-platform-functional-consultant.html).
-- [Mindhub](https://eu1.mindhub.com/pl-200-microsoft-power-platform-functional-consultant-microsoft-official-practice-test/p/MU-PL-200).
+- [Measureup](https://www.measureup.com/microsoft-practice-test-pl-400-microsoft-power-platform-developer.html#u5).
+- [Mindhub](https://eu1.mindhub.com/pl-400-microsoft-power-platform-developer-microsoft-official-practice-test/p/MU-PL-400).
 
 
 
@@ -104,6 +128,8 @@ You can buy the practice test at:
 [Return to top](#top) | [Back to main](./README.md)
 
 <br/>
+
+---
 
 <a id="score-needed-to-pass-exam" />
 

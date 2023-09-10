@@ -11,7 +11,11 @@ Training for Microsoft Official Course (MOC) PL-400: Microsoft Power Platform De
 The Microsoft Power Platform helps organizations optimize their operations by simplifying, automating and transforming business tasks and processes.
 
 - [About the course](./about-the-course.md)
+    - The July 2023 course outline is available [here](./outline2023_july.md)
+
 - [Exam certification](./exam.md)
+    - [Official practice test](https://www.measureup.com/microsoft-practice-test-pl-400-microsoft-power-platform-developer.html#u5)
+    - [Free Practice Assessments](https://learn.microsoft.com/en-us/certifications/exams/pl-400/practice/assessment?assessment-type=practice&assessmentId=66)
 - [Hands-on Labs](./hands-on-labs.md)
 - [Software List for Hands-on Labs](./Lab-Setup.md)
 - [Tools](./tools.md)
