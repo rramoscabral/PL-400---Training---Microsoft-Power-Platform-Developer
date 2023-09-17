@@ -58,17 +58,17 @@ The Microsoft Power Platform helps organizations optimize their operations by si
 
 - [20483: Programming in C#](https://github.com/rramoscabral/20483---Training---Programming-in-C-Sharp)
 - [20484: Essentials of Developing Windows Store Apps Using C#](https://github.com/rramoscabral/20484---Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp)
-- [AZ-104: Microsoft Azure Administrator](https://github.com/rramoscabral/AZ-104---Training---Microsoft-Azure-Administrator)
-- [AZ-204: Developing Solutions for Microsoft Azure](https://github.com/rramoscabral/AZ-104---Training---Microsoft-Azure-Administrator)
-- [AZ-300: Microsoft Azure Architect Technologies](https://github.com/rramoscabral/AZ-300---Training---Microsoft-Azure-Architect-Technologies)
-- [AZ-400: Microsoft Azure DevOps Solutions](https://github.com/rramoscabral/AZ-400---Training---Microsoft-Azure-DevOps-Solutions)
-- [AZ-801: Configuring Windows Server Hybrid Advanced Services](https://github.com/rramoscabral/AZ-801---Training---Configuring-Windows-Server-Hybrid-Advanced-Services)
-- [MD-101: Managing Modern Desktops](https://github.com/rramoscabral/MD-101---Training---Managing-Modern-Desktops)
+- [AZ-104: Microsoft Azure Administrator](https://az-104.rramoscabral.com/)
+- [AZ-204: Developing Solutions for Microsoft Azure](https://az-204.rramoscabral.com/)
+- [AZ-300: Microsoft Azure Architect Technologies](http://az-300.rramoscabral.com/)
+- [AZ-400: Microsoft Azure DevOps Solutions](https://az-400.rramoscabral.com/)
+- [AZ-801: Configuring Windows Server Hybrid Advanced Services](https://az-801.rramoscabral.com)
+- [MD-101: Managing Modern Desktops](https://md-101.rramoscabral.com/)
 - [MS-500: Microsoft 365 Security Administration](https://github.com/rramoscabral/MS-500---Training---Microsoft-365-Security-Administration)
-- [MS-700: Managing Microsoft Teams](https://github.com/rramoscabral/MS-700---Training---Managing-Microsoft-Teams)
-- [MS-720: Microsoft Teams Voice Engineer](https://github.com/rramoscabral/MS-720---Training---Microsoft-Teams-Voice-Engineer)
+- [MS-700: Managing Microsoft Teams](https://ms-700.rramoscabral.com/)
+- [MS-720: Microsoft Teams Voice Engineer](https://ms-720.rramoscabral.com/)
 - [Microsoft Windows PowerShell Training](https://github.com/rramoscabral/MSPowerShell---Training---Microsoft-Windows-PowerShell)
-- [SharePoint Online Power User](https://github.com/rramoscabral/MSSPOPowerUser---Training---SharePoint-Online-Power-User)
+- [SharePoint Online Power User](http://msspopoweruser.rramoscabral.com/)
 
 <br/>
 
