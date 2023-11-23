@@ -79,7 +79,7 @@ The Microsoft Power Platform helps organizations optimize their operations by si
 
 <br/>
 
-You can follow me at:
+**You can follow me at:**
 
 <br/>
 
