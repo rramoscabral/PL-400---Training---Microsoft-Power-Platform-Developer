@@ -63,6 +63,7 @@ The Microsoft Power Platform helps organizations optimize their operations by si
 - [AZ-300: Microsoft Azure Architect Technologies](http://az-300.rramoscabral.com/)
 - [AZ-400: Microsoft Azure DevOps Solutions](https://az-400.rramoscabral.com/)
 - [AZ-801: Configuring Windows Server Hybrid Advanced Services](https://az-801.rramoscabral.com)
+- [DP-900: Microsoft Azure Data Fundamentals](https://dp-900.rramoscabral.com)
 - [MD-101: Managing Modern Desktops](https://md-101.rramoscabral.com/)
 - [MS-500: Microsoft 365 Security Administration](https://github.com/rramoscabral/MS-500---Training---Microsoft-365-Security-Administration)
 - [MS-700: Managing Microsoft Teams](https://ms-700.rramoscabral.com/)
